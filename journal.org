@@ -1,0 +1,64 @@
+* MEMBRES
+** Michael MARTIN 0652927118 michaelmartin.92140@gmail.com
+** Christian LIN 0651553188 C.linu_u8@hotmail.fr
+
+* PROJET:
+** Nous avons choisi le projet suiveur de ligne.
+
+
+* 9/12/2020
+* FAIT:
+** Allumer le capteur et le utiliser pour lire un triplet RGB
+** Dessiner des taches de couleur
+
+* 2/12/2020
+* FAIT:
+** Faire bougers les moteurs
+** Allumer le capteur et le utiliser pour lire un triplet RGB
+** Dessiner des taches de couleur
+
+* 3/11/2020
+** RDV mardi 10 nov à Christian LIN
+
+* 18/11/2020
+* FAIT:
+** Hello World sur le robot
+
+* 09/12/2020
+* FAIT:
+** Algorithme de détection d'une couleur
+* À FAIRE
+*** tester. vérifier qu'on peut discriminer deux couleurs
+
+* 20/01/2021
+* FAIT :
+** Monter le robot
+* A FAIRE :
+** Faire l'algorithme de direction du robot
+
+* 27/01/2021
+* FAIT :
+** Algorithme de direction du robot et gestion des virages
+* A FAIRE :
+** Perfectionner l'algo de direction en bidouillant le capteur
+
+* 10/02/2021
+* FAIT :
+** Le robot peut suivre une ligne
+
+* 07/03/2021
+* FAIT :
+** Le robot capte les couleur avec une plus grande précision
+* A FAIRE :
+** Etude de l'algorithme du PID
+
+* 29/03/2021
+* FAIT :
+** PID algorithm implémenté
+* A FAIRE :
+** Eventuel optimization
+
+** 15/05/2021
+* FAIT :
+** Rendu du rapport,
+** implémentation du croisement (accelerer en ligne droite quand le robot capte un croisement)
